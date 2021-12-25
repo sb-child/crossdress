@@ -1,0 +1,8 @@
+stages:
+  - upload
+
+deploy-job:
+  stage: upload
+  script:
+    - echo "正在推送到github..."
+    - echo "完成~"
