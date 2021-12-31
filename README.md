@@ -6,7 +6,11 @@
 让咱康康您们有多么好奇...
 
 ## 介绍
-(todo)
+
+您没有走错，这就是 crossdressing~
+![cover](./img/IMG_20211231_181814.jpg)
+<sub>随意拍的</sub>
+[原图存档](https://sbc-io.xyz:8081/s/PetR)
 
 ## 托管站
 
