@@ -47,6 +47,10 @@ _(L size)_
 
 ![img](./img/photo_2022-06-13_14-17-30_1.png)
 
+呜呜好冷... 还是穿上吧~
+
+![img](./img/IMG20220618223157_1.jpg)
+
 ---
 
 咱的裙友 [@dntsdnts](https://github.com/dntsdnts) 为咱献上1张*照骗*:
