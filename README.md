@@ -51,6 +51,22 @@ _(L size)_
 
 ![img](./img/IMG20220618223157_1.jpg)
 
+是咱的新丝袜诶~
+
+![img](./img/IMG20220717170150.jpg)
+
+感觉黑色的更好康1些...
+
+![img](./img/IMG20220717170406.jpg)
+
+据说这治好了ta的颈椎病:
+
+![img](./img/IMG20220717214735.jpg)
+
+看起来好棒~
+
+![img](./img/IMG_20220804_154023.jpg)
+
 ---
 
 咱的裙友 [@dntsdnts](https://github.com/dntsdnts) 为咱献上1张*照骗*:
