@@ -82,8 +82,7 @@ _(L size)_
 ## 托管站
 
 - 主托管站 https://github.com/sb-child/crossdress
-- 备份站(照顾国内用户) https://sbc-io.xyz:81/gl/root-mirrors/crossdress
-- 备份站(国内只读镜像) https://n3s1.sbc-io.xyz:3943/main-mirrors/crossdress
+- 备份站(照顾国内用户) https://my.sbchild.top:81/gl/root-mirrors/crossdress
 
 ## 许可证
 
