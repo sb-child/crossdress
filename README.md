@@ -2,7 +2,7 @@
 
 | 访问量                                                          |
 | --------------------------------------------------------------- |
-| ![counter](https://sbc-io.xyz:81/_sbcounter/crossdress/rw/card) |
+| ![counter](https://my.sbchild.top:81/_sbcounter/crossdress/rw/card) |
 
 让咱康康您们有多么好奇...
 
