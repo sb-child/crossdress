@@ -67,6 +67,10 @@ _(L size)_
 
 ![img](./img/IMG_20220804_154023.jpg)
 
+黑色和白色~
+
+![img](./img/photo_2023-05-02_16-11-18.jpg)
+
 ---
 
 咱的裙友 [@dntsdnts](https://github.com/dntsdnts) 为咱献上1张*照骗*:
