@@ -17,7 +17,7 @@
 
 <sub>随意拍的</sub>
 
-自从吃了*糖*，腰围变小了诶~
+自从吃了[糖](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#%e7%b3%96)，腰围变小了诶~
 
 ![img](./img/photo_2022-05-06_14-35-15.jpg)
 ![img](./img/photo_2022-05-06_14-35-38.jpg)
@@ -71,6 +71,16 @@ _(L size)_
 
 ![img](./img/photo_2023-05-02_16-11-18.jpg)
 
+和别的[小药娘](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7)出去吃饭喵~
+
+![img](./img/2024-10-15-18-30-28-576.jpg)
+
+新衣服喵([来源](https://github.com/sb-child/Triple?tab=readme-ov-file#estradiol-%E8%A1%AC%E8%A1%AB-release%E5%8F%AF%E7%94%9F%E4%BA%A7))
+
+![img](./img/20241019_1.png)
+
+![img](./img/20241019_2.png)
+
 ---
 
 咱的裙友 [@dntsdnts](https://github.com/dntsdnts) 为咱献上1张*照骗*:
@@ -79,11 +89,6 @@ _(L size)_
 
 ![img](./img/qrqr/IMG_20220522_083721_994.jpg)
 
-## 托管站
-
-- 主托管站 https://github.com/sb-child/crossdress
-- 备份站(照顾国内用户) https://my.sbchild.top:81/gl/root-mirrors/crossdress
-
 ## 许可证
 
-本项目遵循 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议。
+本项目遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议。
