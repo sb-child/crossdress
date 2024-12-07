@@ -81,6 +81,10 @@ _(L size)_
 
 ![img](./img/20241019_2.png)
 
+长筒袜喵
+
+![img](./img/IMG_20241207_161412_edited.jpg)
+
 ---
 
 咱的裙友 [@dntsdnts](https://github.com/dntsdnts) 为咱献上1张*照骗*:
